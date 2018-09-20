@@ -65,17 +65,17 @@
           <children xmi:type="notation:ListCompartment" xmi:id="_nLf1mLeSEeibWdP_atHAhA" visible="false" type="Extension_Points"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nLf1kreSEeibWdP_atHAhA" x="10164" y="4356"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_y-RDkLeTEeibWdP_atHAhA" type="rectangle" fontName="Segoe UI" fontHeight="8" fillColor="13956346" transparency="100" lineColor="12632258" lineWidth="1">
-          <children xmi:type="notation:BasicDecorationNode" xmi:id="_y-RDlLeTEeibWdP_atHAhA" type="DiagramName">
+        <children xmi:type="notation:Shape" xmi:id="_2kKocL0TEei2OYLGsq5B2A" type="rectangle" fontName="Segoe UI" fontHeight="8" fillColor="13956346" transparency="100" lineColor="12632258" lineWidth="1">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_2kKodL0TEei2OYLGsq5B2A" type="DiagramName">
             <element xsi:nil="true"/>
           </children>
-          <children xmi:type="notation:BasicDecorationNode" xmi:id="_y-RDlbeTEeibWdP_atHAhA" type="Description">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_2kKodb0TEei2OYLGsq5B2A" type="Description">
             <element xsi:nil="true"/>
           </children>
-          <styles xmi:type="notation:TextStyle" xmi:id="_y-RDkbeTEeibWdP_atHAhA"/>
-          <styles xmi:type="notation:LineTypeStyle" xmi:id="_y-RDkreTEeibWdP_atHAhA"/>
+          <styles xmi:type="notation:TextStyle" xmi:id="_2kKocb0TEei2OYLGsq5B2A"/>
+          <styles xmi:type="notation:LineTypeStyle" xmi:id="_2kKocr0TEei2OYLGsq5B2A"/>
           <element xsi:nil="true"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_y-RDk7eTEeibWdP_atHAhA" x="6191" y="924" width="9868" height="8413"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2kKoc70TEei2OYLGsq5B2A" x="7646" y="238" width="7090" height="9736"/>
         </children>
         <element xsi:nil="true"/>
         <edges xmi:type="umlnotation:UMLConnector" xmi:id="_6GfoULeEEeibWdP_atHAhA" element="_6GV3ULeEEeibWdP_atHAhA" source="_PmBhcbeEEeibWdP_atHAhA" target="_aOjmYLeEEeibWdP_atHAhA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
@@ -249,47 +249,7 @@
           <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_qrS9SLeSEeibWdP_atHAhA" points="[27, 9, -224, -61]$[203, 73, -48, 3]"/>
           <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_uGFCELeSEeibWdP_atHAhA" id="(0.7866430260047281,0.9113817723645528)"/>
         </edges>
-        <edges xmi:type="umlnotation:UMLConnector" xmi:id="_rTgz0LeSEeibWdP_atHAhA" element="_rTXp4LeSEeibWdP_atHAhA" source="_PmBhcbeEEeibWdP_atHAhA" target="_nLf1kbeSEeibWdP_atHAhA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
-          <children xmi:type="notation:DecorationNode" xmi:id="_rTgz0reSEeibWdP_atHAhA" type="NameLabel">
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_rTgz1LeSEeibWdP_atHAhA" type="Stereotype"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_rTgz1beSEeibWdP_atHAhA" type="Name"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rTgz07eSEeibWdP_atHAhA" y="-186"/>
-          </children>
-          <children xmi:type="notation:DecorationNode" xmi:id="_rTgz1reSEeibWdP_atHAhA" visible="false" type="ToMultiplicityLabel" element="_rTXp5LeSEeibWdP_atHAhA">
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_rTgz2LeSEeibWdP_atHAhA" type="ToMultiplicity"/>
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_rTgz17eSEeibWdP_atHAhA" y="396"/>
-          </children>
-          <children xmi:type="notation:DecorationNode" xmi:id="_rTgz2beSEeibWdP_atHAhA" visible="false" type="ToRoleLabel" element="_rTXp5LeSEeibWdP_atHAhA">
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_rTgz27eSEeibWdP_atHAhA" type="ToRole"/>
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_rTgz2reSEeibWdP_atHAhA" y="-397"/>
-          </children>
-          <children xmi:type="notation:DecorationNode" xmi:id="_rTgz3LeSEeibWdP_atHAhA" visible="false" type="FromMultiplicityLabel" element="_rTXp4beSEeibWdP_atHAhA">
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_rTgz3reSEeibWdP_atHAhA" type="FromMultiplicity"/>
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_rTgz3beSEeibWdP_atHAhA" y="396"/>
-          </children>
-          <children xmi:type="notation:DecorationNode" xmi:id="_rTgz37eSEeibWdP_atHAhA" visible="false" type="FromRoleLabel" element="_rTXp4beSEeibWdP_atHAhA">
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_rTgz4beSEeibWdP_atHAhA" type="FromRole"/>
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_rTgz4LeSEeibWdP_atHAhA" y="-397"/>
-          </children>
-          <children xmi:type="notation:DecorationNode" xmi:id="_rTgz4reSEeibWdP_atHAhA" type="ToQualifierLabel" element="_rTXp5LeSEeibWdP_atHAhA">
-            <children xmi:type="notation:SemanticListCompartment" xmi:id="_rTgz5LeSEeibWdP_atHAhA" type="QualifierCompartment"/>
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_rTgz47eSEeibWdP_atHAhA" y="-186"/>
-          </children>
-          <children xmi:type="notation:DecorationNode" xmi:id="_rTgz5beSEeibWdP_atHAhA" type="FromQualifierLabel" element="_rTXp4beSEeibWdP_atHAhA">
-            <children xmi:type="notation:SemanticListCompartment" xmi:id="_rTgz57eSEeibWdP_atHAhA" type="QualifierCompartment"/>
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_rTgz5reSEeibWdP_atHAhA" y="-186"/>
-          </children>
-          <children xmi:type="notation:DecorationNode" xmi:id="_rTgz6LeSEeibWdP_atHAhA" type="ToConstraintLabel" element="_rTXp5LeSEeibWdP_atHAhA">
-            <children xmi:type="notation:ListCompartment" xmi:id="_rTgz6reSEeibWdP_atHAhA" type="ToConstraintCompartment"/>
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_rTgz6beSEeibWdP_atHAhA" y="1058"/>
-          </children>
-          <children xmi:type="notation:DecorationNode" xmi:id="_rTgz67eSEeibWdP_atHAhA" type="FromConstraintLabel" element="_rTXp4beSEeibWdP_atHAhA">
-            <children xmi:type="notation:ListCompartment" xmi:id="_rTgz7beSEeibWdP_atHAhA" type="FromConstraintCompartment"/>
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_rTgz7LeSEeibWdP_atHAhA" y="1058"/>
-          </children>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_rTgz0beSEeibWdP_atHAhA" points="[16, -9, -238, 155]$[260, -140, 6, 24]"/>
-          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_vBSGELeSEeibWdP_atHAhA" id="(0.7186662697231319,0.21713565728685427)"/>
-        </edges>
+        <layers xmi:id="_Bu_3QL0WEei2OYLGsq5B2A" name="Layer1"/>
       </contents>
     </eAnnotations>
     <packageImport xmi:id="_np68JreAEeibWdP_atHAhA">
@@ -300,7 +260,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:UseCase" xmi:id="_aOaccLeEEeibWdP_atHAhA" name="Gerar relatório administrativo">
       <ownedComment xmi:id="_-N72cLeSEeibWdP_atHAhA" annotatedElement="_aOaccLeEEeibWdP_atHAhA">
-        <body>&lt;p>Nome: Gerar relatório administrativo&lt;/p>&lt;p>Descrição: O gerente solicita a emissão de um relatório que será gerado pelo sistema. O relatório inclui informações como o número de apólices vendidas no mês, status das apólices, apólices vendidas por corretor.&lt;/p>&lt;p>Evento iniciador: Relatório solicitado pelo gerente&lt;/p>&lt;p>Ator(es): Gerente&lt;/p>&lt;p>Pré-condição: Gerente logado no sistema&lt;/p>&lt;p>Sequência de eventos:&lt;/p>&lt;ol>&lt;li>&lt;p>Sistema busca no banco de dados as informações a serem relatadas&lt;/p>&lt;/li>&lt;li>&lt;p>Sistema formata as informações na estrutura do relatório&lt;/p>&lt;/li>&lt;li>&lt;p>Sistema imprime o relatório&lt;/p>&lt;/li>&lt;li>&lt;p>Fim do caso de uso&lt;/p>&lt;/li>&lt;/ol>&lt;p>Pós-condição: Relatório gerado e impresso&lt;/p>&lt;p>Extensões: Não há&lt;/p>&lt;p>Inclusões: Não há &lt;/p>&lt;p>&lt;/p></body>
+        <body>&lt;p>Nome: Gerar relatório administrativo&lt;/p>&lt;p>Descrição: O gerente solicita a emissão de um relatório que será gerado pelo sistema. O relatório inclui informações como o número de apólices vendidas no mês, status das apólices, apólices vendidas por corretor.&lt;/p>&lt;p>Evento iniciador: Gerente solicita relatório&lt;/p>&lt;p>Ator(es): Gerente&lt;/p>&lt;p>Pré-condição: Gerente logado no sistema&lt;/p>&lt;p>Sequência de eventos:&lt;/p>&lt;ol>&lt;li>&lt;p>Sistema apresenta períodos disponíveis de consulta para o relatório&lt;/p>&lt;/li>&lt;li>&lt;p>Gerente seleciona mês e ano desejado&lt;/p>&lt;/li>&lt;li>&lt;p>Sistema busca no banco de dados as informações a serem relatadas&lt;/p>&lt;/li>&lt;li>&lt;p>Sistema formata as informações na estrutura do relatório&lt;/p>&lt;/li>&lt;li>&lt;span style=&quot;font-size:8pt;font-family:Tahoma;&quot;>Sistema imprime o relatório na tela&lt;/span>&lt;/li>&lt;li>&lt;span style=&quot;font-size:8pt;font-family:Tahoma;&quot;>Fim do caso de uso&lt;/span>&lt;/li>&lt;/ol>&lt;p>Pós-condição: Relatório gerado e impresso na tela&lt;/p>&lt;p>Extensões:&lt;/p>&lt;p>1. Passo de entrada - Passo 2: Gerente não seleciona período e confirma busca: Sistema retorna ao passo 1&lt;/p>&lt;p>Inclusões: Não há&lt;/p>&lt;p>&lt;/p></body>
       </ownedComment>
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_eRXUgLeEEeibWdP_atHAhA" memberEnd="_eRXUgbeEEeibWdP_atHAhA _eRXUhLeEEeibWdP_atHAhA" navigableOwnedEnd="_eRXUgbeEEeibWdP_atHAhA">
@@ -314,9 +274,9 @@
       </ownedEnd>
     </packagedElement>
     <packagedElement xmi:type="uml:Actor" xmi:id="_qn_S8LeEEeibWdP_atHAhA" name="Corretor"/>
-    <packagedElement xmi:type="uml:UseCase" xmi:id="_r8BtsLeEEeibWdP_atHAhA" name="Alterar dados da apólice">
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_r8BtsLeEEeibWdP_atHAhA" name="Alterar status da apólice">
       <ownedComment xmi:id="_6iiR0LeJEeibWdP_atHAhA" annotatedElement="_r8BtsLeEEeibWdP_atHAhA">
-        <body>&lt;p>Nome: Alterar dados da apólice&lt;/p>&lt;p>Descrição: O corretor ou gerente altera os dados de apólices cadastradas&lt;/p>&lt;p>Evento iniciador: Corretor/gerente informa número da apólice a ser alterada&lt;/p>&lt;p>Ator(es): Corretor, gerente&lt;/p>&lt;p>Pré-condição: Corretor ou gerente logado no sistema&lt;/p>&lt;p>Sequência de eventos:&lt;/p>&lt;blockquote>&lt;p>1. O sistema exibe dados da apólice com número informado&lt;/p>&lt;/blockquote>&lt;blockquote>&lt;p>2. Corretor/gerente solicita a edição da apólice&lt;/p>&lt;/blockquote>&lt;blockquote>&lt;p>3. O sistema habilita a edição dos dados da apólice&lt;/p>&lt;/blockquote>&lt;blockquote>&lt;p>4. Corretor/gerente altera dados da apólice e confirma alterações&lt;/p>&lt;p>5. O sistema confere as alterações inseridas&lt;/p>&lt;/blockquote>&lt;blockquote>&lt;p>6. O sistema salva as alterações feitas no banco de dados&lt;/p>&lt;/blockquote>&lt;blockquote>&lt;p>7. O sistema imprime mensagem de sucesso&lt;/p>&lt;/blockquote>&lt;blockquote>&lt;p>8. Fim do caso de uso&lt;/p>&lt;/blockquote>&lt;p>Pós-condição: Dados da apólice atualizados no sistema&lt;/p>&lt;p>Extensões:&lt;/p>&lt;blockquote>&lt;p>1. Número de apólice não encontrado: Sistema imprime mensagem de erro e finaliza caso de uso (passo 1)&lt;/p>&lt;p>2. Dados inseridos inválidos: Sistema imprime mensagem de erro e retorna ao passo 4 (passo 5)&lt;/p>&lt;/blockquote>&lt;p>Inclusões: Não há&lt;/p>&lt;p>&lt;/p>&lt;p>&lt;/p>&lt;p>&lt;/p>&lt;p>&lt;/p>&lt;p>&lt;/p></body>
+        <body>&lt;p>Nome: Alterar status da apólice&lt;/p>&lt;p>Descrição: O corretor ou gerente altera o status de apólices cadastradas&lt;/p>&lt;p>Evento iniciador: Corretor/gerente informa número da apólice a ser alterada&lt;/p>&lt;p>Ator(es): Corretor, gerente&lt;/p>&lt;p>Pré-condição: Corretor ou gerente logado no sistema&lt;/p>&lt;p>Sequência de eventos:&lt;/p>&lt;blockquote>&lt;p>1. Sistema exibe dados da apólice com número informado&lt;/p>&lt;/blockquote>&lt;blockquote>&lt;p>2. Corretor/gerente solicita a edição do status da apólice&lt;/p>&lt;/blockquote>&lt;blockquote>&lt;p>3. Sistema habilita a edição do status da apólice&lt;/p>&lt;/blockquote>&lt;blockquote>&lt;p>4. Corretor/gerente altera status da apólice&lt;/p>&lt;/blockquote>&lt;blockquote>&lt;p>5. Sistema valida dados e salva a alteração no banco de dados&lt;/p>&lt;/blockquote>&lt;blockquote>&lt;p>6. Sistema imprime mensagem de sucesso&lt;/p>&lt;/blockquote>&lt;blockquote>&lt;p>7. Fim do caso de uso&lt;/p>&lt;/blockquote>&lt;p>Pós-condição: Status da apólice atualizados no sistema&lt;/p>&lt;p>Extensões:&lt;/p>&lt;blockquote>&lt;p>1.Passo de entrada - Passo 1: Número de apólice não encontrado: Sistema imprime mensagem de erro e finaliza caso de uso.&lt;/p>&lt;p>2. Passo de entrada - Passo 5: Dados inseridos inválidos: Sistema imprime mensagem de erro e retorna ao passo 3&lt;/p>&lt;/blockquote>&lt;p>Inclusões: Não há&lt;/p>&lt;p>&lt;/p>&lt;p>&lt;/p>&lt;p>&lt;/p>&lt;p>&lt;/p>&lt;p>&lt;/p></body>
       </ownedComment>
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_1Qe7oLeEEeibWdP_atHAhA" memberEnd="_1Qe7obeEEeibWdP_atHAhA _1Qe7pLeEEeibWdP_atHAhA" navigableOwnedEnd="_1Qe7obeEEeibWdP_atHAhA _1Qe7pLeEEeibWdP_atHAhA">
@@ -362,7 +322,7 @@
     <packagedElement xmi:type="uml:Actor" xmi:id="_k6NIYLeSEeibWdP_atHAhA" name="Cliente"/>
     <packagedElement xmi:type="uml:UseCase" xmi:id="_nLf1kLeSEeibWdP_atHAhA" name="Vender apólice">
       <ownedComment xmi:id="_U6HTcLeTEeibWdP_atHAhA" annotatedElement="_nLf1kLeSEeibWdP_atHAhA">
-        <body>&lt;p>Nome: Vender apólices&lt;/p>&lt;p>Descrição: Realiza o processo de venda de apólices para um cliente. Caso o processo seja presencial, todas as informações serão inseridas pelo corretor. Caso seja via web, o cliente selecionará o modelo do carro e o restante das informações necessárias são inseridas pelo corretor.&lt;/p>&lt;p>Evento iniciador: Cliente/corretor solicita compra de apólices&lt;/p>&lt;p>Ator(es): Corretor, Cliente, Gerente&lt;/p>&lt;p>Pré-condição: Corretor logado no sistema, cliente já cadastrado e dados dos modelos de carros atualizados de acordo com a tabela FIPE &lt;/p>&lt;p>Sequência de eventos:&lt;/p>&lt;blockquote>&lt;p>1. O sistema apresenta modelos dos carros disponíveis&lt;/p>&lt;/blockquote>&lt;blockquote>&lt;p>2. Ator seleciona modelo desejado&lt;/p>&lt;/blockquote>&lt;blockquote>&lt;p>3. O sistema solicita dados da corretora&lt;/p>&lt;/blockquote>&lt;blockquote>&lt;p>4. Corretor/gerente informa dados da corretora&lt;/p>&lt;/blockquote>&lt;blockquote>&lt;p>5. O sistema solicita dados de cobertura&lt;/p>&lt;/blockquote>&lt;blockquote>&lt;p>6. Ator seleciona dados de cobertura&lt;/p>&lt;/blockquote>&lt;blockquote>&lt;p>7. O sistema calcula o valor das franquias e dos prêmios com base nas regras de negócio e dados fornecidos&lt;/p>&lt;/blockquote>&lt;blockquote>&lt;p>8. Ator conclui a venda&lt;/p>&lt;/blockquote>&lt;blockquote>&lt;p>9. Sistema gera apólice&lt;/p>&lt;/blockquote>&lt;blockquote>&lt;p> 10. Fim do caso de uso&lt;/p>&lt;/blockquote>&lt;p>Pós-condição: Apólice gerada no sistema&lt;/p>&lt;p>Extensões: &lt;/p>&lt;p>Ator cancela a venda: Fim de caso de uso (passo 8)&lt;/p>&lt;p>Inclusões: Não há &lt;/p></body>
+        <body>&lt;p>Nome: Vender apólice&lt;/p>&lt;p>Descrição: Realiza o processo de venda de apólices para um cliente. Caso o processo seja presencial, todas as informações serão inseridas pelo corretor. Caso seja via web, o cliente selecionará o modelo do carro e o restante das informações necessárias são inseridas pelo corretor.&lt;/p>&lt;p>Evento iniciador: Ator solicita compra de apólices&lt;/p>&lt;p>Ator(es): Corretor, Cliente, Gerente&lt;/p>&lt;p>Pré-condição: Ator já logado e dados dos modelos de carros atualizados de acordo com a tabela FIPE&lt;/p>&lt;p>Sequência de eventos:&lt;/p>&lt;blockquote>&lt;p>1. Sistema apresenta modelos dos carros disponíveis&lt;/p>&lt;/blockquote>&lt;blockquote>&lt;p>2. Ator seleciona modelo desejado&lt;/p>&lt;/blockquote>&lt;blockquote>&lt;p>3. Sistema solicita o tipo de valor de contratação (tabela FIPE ou Determinado)&lt;/p>&lt;p>4. Ator seleciona valor de contratação da tabela FIPE&lt;/p>&lt;p>5. Sistema apresenta tipos de franquias disponíveis&lt;/p>&lt;p>6. Ator seleciona o tipo de franquia desejado&lt;/p>&lt;p>7. Sistema calcula o valor das franquias e dos prêmios com base nas regras de negócio e dados fornecidos&lt;/p>&lt;p>8. Sistema apresenta valores calculados e completa dados de cobertura&lt;/p>&lt;p>9. Sistema solicta dados da corretora &lt;/p>&lt;p>10. Corretor/gerente informa dados da corretora&lt;/p>&lt;p>11. Cliente aprova a compra do seguro&lt;/p>&lt;p>12. Corretor/gerente confirma o pagamento no sistema após o pagamento pelo cliente&lt;/p>&lt;p>13. Sistema gera apólice&lt;/p>&lt;p>14. Fim do caso de uso&lt;/p>&lt;/blockquote>&lt;p>Pós-condição: Apólice gerada no sistema&lt;/p>&lt;p>Extensões:&lt;/p>&lt;p>1. Passo de entrada - Passo 2: Ator não seleciona modelo de carro: Sistema retorna ao passo 1.&lt;/p>&lt;p>2. Passo de entrada - Passo 4: Ator seleciona tipo de valor de contratação como Determinado:&lt;/p>&lt;blockquote>&lt;p>a) Sistema solicita Valor Determinado&lt;/p>&lt;p>b) Ator informa Valor Determinado&lt;/p>&lt;p>c) Sistema retorna ao passo 5&lt;/p>&lt;/blockquote>&lt;p>3. Passo de entrada - Extensão 2.b) Ator informa dados inválidos: Sistema retorna ao passo 2.a.&lt;/p>&lt;p>4. Passo de entrada - Passo 6: Ator não seleciona tipo de franquia: Sitema retorna ao passo 5.&lt;/p>&lt;p>5. Passo de entrada - Passo 9: Caso usuário do sistema não seja corretor/gerente: Sistema preenche dados de corretora com default e retorna ao passo 11.&lt;/p>&lt;p>6. Passo de entrada - Passo 10: Corretor/gerente informa dados inválidos: Retorna ao passo 9.&lt;/p>&lt;p>7. Passo de entrada - Passo 11: Cliente não aprova a compra: Fim de caso de uso.&lt;/p>&lt;p>8. Passo de entrada - Passo 12: Pagamento não confirmado: Fim de caso uso. &lt;/p>&lt;p>Inclusões: Não há&lt;/p></body>
       </ownedComment>
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_p5z18LeSEeibWdP_atHAhA" memberEnd="_p5z18beSEeibWdP_atHAhA _p5z19LeSEeibWdP_atHAhA" navigableOwnedEnd="_p5z18beSEeibWdP_atHAhA _p5z19LeSEeibWdP_atHAhA">
