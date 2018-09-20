@@ -249,6 +249,7 @@
           <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_qrS9SLeSEeibWdP_atHAhA" points="[27, 9, -224, -61]$[203, 73, -48, 3]"/>
           <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_uGFCELeSEeibWdP_atHAhA" id="(0.7866430260047281,0.9113817723645528)"/>
         </edges>
+        <layers xmi:id="_Bu_3QL0WEei2OYLGsq5B2A" name="Layer1"/>
       </contents>
     </eAnnotations>
     <packageImport xmi:id="_np68JreAEeibWdP_atHAhA">
